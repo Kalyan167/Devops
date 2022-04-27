@@ -1,0 +1,255 @@
+Custom App Settings
+
+
+Access Conversation Entries		Manage Password Policies	
+Access Experience Management		Manage Profiles and Permission Sets	
+Access Libraries		Manage Promoted Search Terms	
+Add People to Direct Messages		Manage Prompts	 
+Allow Inclusion of Code Snippets from UI		Manage Public Classic Email Templates	 
+Allow user to modify Private Connections		Manage Public Documents	 
+Apex REST Services		Manage Public List Views	 
+API Enabled		Manage Release Updates	
+Assign Permission Sets		Manage Reporting Snapshots	 
+Author Apex	 	Manage Reports in Public Folders	 
+Bulk API Hard Delete		Manage Roles	
+Can Approve Feed Post and Comment		Manage Salesforce CRM Content	 
+Change Dashboard Colors		Manage Salesforce Knowledge	 
+Chatter Internal User	Checked	Manage Security Center	
+Close Conversation Threads		Manage Session Permission Set Activations	 
+Configure Custom Recommendations		Manage Sharing	
+Create and Customize Dashboards		Manage Synonyms	 
+Create and Customize List Views		Manage Tableau CRM Subscriptions	
+Create and Customize Reports	 	Manage Translation	 
+Create and Own New Chatter Groups		Manage Unlisted Groups	
+Create and Set Up Experiences		Manage Users	 
+Create and Update Second-Generation Packages		Moderate Chatter	
+Create CMS Workspaces and Channels		Moderate Experience Cloud Site Users	
+Create Content Deliveries		Modify All Data	 
+Create Dashboard Folders	 	Modify Metadata Through Metadata API Functions	 
+Create Public Links		Password Never Expires	
+Create Report Folders	 	Pin Posts in Feeds	
+Customize Application	 	Query All Files	 
+Delete Second-Generation Packages		Quip Metrics	
+Edit HTML Templates	 	Quip User Engagement Metrics	
+Edit My Dashboards	 	Remove People from Direct Messages	 
+Edit My Own Posts		Report Builder (Lightning Experience)	 
+Edit My Reports	 	Reset User Passwords and Unlock Users	 
+Edit Posts on Records I Own		Run Macros on Multiple Records	 
+Edit Read Only Fields		Salesforce Anywhere in Lightning Experience	
+Files Connect Cloud		Salesforce Anywhere on Mobile	
+Give Recognition Badges in Experience Builder Sites		Salesforce Mobile App: Native scrolling on webviews	
+Hide Option to Switch to Salesforce Classic	 	Schedule Reports	
+Hide the Seen By List		Select Files from Salesforce	
+Import Custom Objects		Send announcement emails	
+Invite Customers To Chatter		Send Custom Notifications	
+IP Restrict Requests		Send Outbound Messages	
+Lightning Console User	Checked	Share internal Knowledge articles externally	
+Lightning Experience User		Show App Launcher in Experience Cloud Sites	
+Manage All Private Reports and Dashboards		Show Company Name as Site Role	
+Manage Auth. Providers	 	Subscribe to Dashboards	 
+Manage Billing	 	Subscribe to Dashboards: Add Recipients	 
+Manage Business Hours Holidays	 	Subscribe to Dashboards: Send to Groups and Roles	 
+Manage Call Centers	 	Subscribe to Reports	 
+Manage Categories	 	Subscribe to Reports: Add Recipients	 
+Manage Certificates		Subscribe to Reports: Send to Groups and Roles	 
+Manage Chatter Messages and Direct Messages		Subscribe to Reports: Set Running User	 
+Manage Custom Permissions		Test Sandboxes in Mobile Publisher for Experience Cloud	
+Manage Custom Report Types	 	Transfer Record	
+Manage Dashboards in Public Folders	 	Use Identity Features	
+Manage Data Categories	 	Use Team Reassignment Wizards	
+Manage Data Integrations		Verify Answers to Chatter Questions	
+Manage Dynamic Dashboards		View All Custom Settings	
+Manage Email Client Configurations	 	View All Data	 
+Manage Encryption Keys		View All Lookup Record Names	
+Manage Entitlements	 	View All Profiles	
+Manage Experiences		View All Users	
+Manage Health Check	 	View and Edit Converted Leads	
+Manage Internal Users		View Dashboards in Public Folders	
+Manage IP Addresses		View Data Categories in Setup	 
+Manage Knowledge Article Import/Export	 	View Flow Usage and Flow Event Data	 
+Manage Learning		View Health Check	 
+Manage Learning Reporting		View Help Link	Checked
+Manage Letterheads	 	View Reports in Public Folders	
+Manage Lightning Sync	 	View Restriction and Scoping Rules	
+Manage Login Access Policies		View Roles and Role Hierarchy	
+Manage Macros Users Can't Undo		View Security Center pages	
+Manage Mobile Configurations	 	View Setup and Configuration	 
+Manage Next Best Action Recommendations		View User Records with PII	
+Manage Next Best Action Strategies		Weekly Data Export	
+Manage Package Licenses		 	 
+
+
+Tab Settings
+
+
+Administrative Permissions
+
+Access Conversation Entries		Manage Password Policies	
+Access Experience Management		Manage Profiles and Permission Sets	
+Access Libraries		Manage Promoted Search Terms	
+Add People to Direct Messages		Manage Prompts	 
+Allow Inclusion of Code Snippets from UI		Manage Public Classic Email Templates	 
+Allow user to modify Private Connections		Manage Public Documents	 
+Apex REST Services		Manage Public List Views	 
+API Enabled		Manage Release Updates	
+Assign Permission Sets		Manage Reporting Snapshots	 
+Author Apex	 	Manage Reports in Public Folders	 
+Bulk API Hard Delete		Manage Roles	
+Can Approve Feed Post and Comment		Manage Salesforce CRM Content	 
+Change Dashboard Colors		Manage Salesforce Knowledge	 
+Chatter Internal User	Checked	Manage Security Center	
+Close Conversation Threads		Manage Session Permission Set Activations	 
+Configure Custom Recommendations		Manage Sharing	
+Create and Customize Dashboards		Manage Synonyms	 
+Create and Customize List Views		Manage Tableau CRM Subscriptions	
+Create and Customize Reports	 	Manage Translation	 
+Create and Own New Chatter Groups		Manage Unlisted Groups	
+Create and Set Up Experiences		Manage Users	 
+Create and Update Second-Generation Packages		Moderate Chatter	
+Create CMS Workspaces and Channels		Moderate Experience Cloud Site Users	
+Create Content Deliveries		Modify All Data	 
+Create Dashboard Folders	 	Modify Metadata Through Metadata API Functions	 
+Create Public Links		Password Never Expires	
+Create Report Folders	 	Pin Posts in Feeds	
+Customize Application	 	Query All Files	 
+Delete Second-Generation Packages		Quip Metrics	
+Edit HTML Templates	 	Quip User Engagement Metrics	
+Edit My Dashboards	 	Remove People from Direct Messages	 
+Edit My Own Posts		Report Builder (Lightning Experience)	 
+Edit My Reports	 	Reset User Passwords and Unlock Users	 
+Edit Posts on Records I Own		Run Macros on Multiple Records	 
+Edit Read Only Fields		Salesforce Anywhere in Lightning Experience	
+Files Connect Cloud		Salesforce Anywhere on Mobile	
+Give Recognition Badges in Experience Builder Sites		Salesforce Mobile App: Native scrolling on webviews	
+Hide Option to Switch to Salesforce Classic	 	Schedule Reports	
+Hide the Seen By List		Select Files from Salesforce	
+Import Custom Objects		Send announcement emails	
+Invite Customers To Chatter		Send Custom Notifications	
+IP Restrict Requests		Send Outbound Messages	
+Lightning Console User	Checked	Share internal Knowledge articles externally	
+Lightning Experience User		Show App Launcher in Experience Cloud Sites	
+Manage All Private Reports and Dashboards		Show Company Name as Site Role	
+Manage Auth. Providers	 	Subscribe to Dashboards	 
+Manage Billing	 	Subscribe to Dashboards: Add Recipients	 
+Manage Business Hours Holidays	 	Subscribe to Dashboards: Send to Groups and Roles	 
+Manage Call Centers	 	Subscribe to Reports	 
+Manage Categories	 	Subscribe to Reports: Add Recipients	 
+Manage Certificates		Subscribe to Reports: Send to Groups and Roles	 
+Manage Chatter Messages and Direct Messages		Subscribe to Reports: Set Running User	 
+Manage Custom Permissions		Test Sandboxes in Mobile Publisher for Experience Cloud	
+Manage Custom Report Types	 	Transfer Record	
+Manage Dashboards in Public Folders	 	Use Identity Features	
+Manage Data Categories	 	Use Team Reassignment Wizards	
+Manage Data Integrations		Verify Answers to Chatter Questions	
+Manage Dynamic Dashboards		View All Custom Settings	
+Manage Email Client Configurations	 	View All Data	 
+Manage Encryption Keys		View All Lookup Record Names	
+Manage Entitlements	 	View All Profiles	
+Manage Experiences		View All Users	
+Manage Health Check	 	View and Edit Converted Leads	
+Manage Internal Users		View Dashboards in Public Folders	
+Manage IP Addresses		View Data Categories in Setup	 
+Manage Knowledge Article Import/Export	 	View Flow Usage and Flow Event Data	 
+Manage Learning		View Health Check	 
+Manage Learning Reporting		View Help Link	Checked
+Manage Letterheads	 	View Reports in Public Folders	
+Manage Lightning Sync	 	View Restriction and Scoping Rules	
+Manage Login Access Policies		View Roles and Role Hierarchy	
+Manage Macros Users Can't Undo		View Security Center pages	
+Manage Mobile Configurations	 	View Setup and Configuration	 
+Manage Next Best Action Recommendations		View User Records with PII	
+Manage Next Best Action Strategies		Weekly Data Export	
+Manage Package Licenses		 	 
+
+General User Permissions
+
+
+Access Activities	Checked	Manage Cases	 
+Access Customer Asset Lifecycle Management APIs		Manage Connected Apps	
+Access drag-and-drop content builder		Manage Content Permissions	
+Access to view Data Assessment		Manage Content Properties	 
+Access Tracer for External Data Sources		Manage Flow	 
+Activate Contracts	 	Manage Leads	 
+Activate Orders	 	Manage Multi-Factor Authentication in API	 
+Allow Access to Customized Actions		Manage Multi-Factor Authentication in User Interface	
+Allow sending of List Emails	 	Manage Public Lightning Email Templates	
+Allow users to view MLModels and related Entities		Manage Published Solutions	 
+Allow user to access privacy data		Manage record types and layouts for Files	 
+Allow View Knowledge	Checked	Mass Edits from Lists	
+Assign Topics		Mass Email	 
+Connect Organization to Environment Hub		Merge Topics	 
+Connect Org to Customer 360 Data Manager		Modify Data Classification	
+Connect Org to Salesforce CDP		Multi-Factor Authentication for API Logins	 
+Convert Leads	 	Multi-Factor Authentication for User Interface Logins	
+Create AI Insight Objects		Omnichannel Inventory Sync	
+Create AppExchange Packages	 	Remain in Salesforce Classic	
+Create Folders for Lightning Email Templates		Report Builder	
+Create Libraries		Run Flows	
+Create Topics		Run Reports	
+Delete Activated Contracts	 	Send Email	 
+Delete Topics		Send Non-Commercial Email	 
+Download AppExchange Packages	 	Send Stay-in-Touch Requests	
+Drag-and-Drop Dashboard Builder		Show Custom Sidebar On All Pages	
+Edit Activated Orders	 	Skip Device Activation at Login	
+Edit Case Comments	 	Transfer Cases	 
+Edit Events		Transfer Leads	 
+Edit Opportunity Product Sales Price		Update Consent Preferences Using REST API	
+Edit Tasks		Upload AppExchange Packages	 
+Edit Topics		Use Omnichannel Inventory APIs	
+Email-Based Identity Verification Option		Use Order Management Add Order Item Summary APIs	
+Enable WDC Calibration		Use Order Management Return APIs	
+Export Reports	 	Use Order Management Return Order	
+Import Leads	 	Use Repricing Objects and APIs	
+Import Personal Contacts	 	View AI Insight Objects	
+Import Solutions	 	View DeveloperName	
+Insert System Field Values for Chatter Feeds		View Encrypted Data	
+Knowledge One		View Event Log Files	
+Lightning Login User		View Login Forensics Events	
+Manage Articles		View My Team's Dashboards	
+Manage Bots	 	View Real-Time Event Monitoring Data	
+Manage Bots Training Data	 	View Threat Detection Events	
+Standard Object Permissions
+Custom Object Permissions
+
+
+ 	
+Basic Access	Data Administration
+Read	Create	Edit	Delete	View All	Modify All
+ 	
+Basic Access	Data Administration
+Read	Create	Edit	Delete	View All	Modify All
+Books	
+					
+empyee details	
+					
+	
+					
+ 	 
+Session Settings
+
+
+
+Password Policies
+*User passwords expire in	
+
+90 days
+*Enforce password history	
+
+3 passwords remembered
+*Minimum password length	
+8
+*Password complexity requirement	
+
+Must include alpha and numeric characters
+*Password question requirement	
+
+Cannot contain password
+*Maximum invalid login attempts	
+
+10
+*Lockout effective period	
+
+15 minutes
+Obscure secret answer for password resets	
+Require a minimum 1 day password lifetime	
+Don't immediately expire links in forgot password emails	
